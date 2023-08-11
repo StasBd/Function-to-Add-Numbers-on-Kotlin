@@ -1,0 +1,11 @@
+*.class
+.idea/
+build/
+.gradle/
+*.iml
+out/*.class
+.idea/
+build/
+.gradle/
+*.iml
+out/
